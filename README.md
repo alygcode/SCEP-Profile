@@ -1,4 +1,4 @@
-#Connects to Microsoft Graph (Intune/Entra ID).
+Connects to Microsoft Graph (Intune/Entra ID).
 Resolves your device by hostname to an Intune Managed Device.
 Verifies enrollment & license.
 Collects dynamic group membership against SCEP profile assignments.
